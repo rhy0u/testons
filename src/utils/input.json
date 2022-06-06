@@ -1,0 +1,14 @@
+{
+    "Pierre" : {
+        "age"  : 27,
+        "lastname" : "Paul"
+    },
+    "Paul" : {
+        "age"  : 30,
+        "lastname" : "Jacques"
+    },
+    "Jacques" : {
+        "age"  : 40,
+        "lastname" : "Pierre"
+    }
+}
